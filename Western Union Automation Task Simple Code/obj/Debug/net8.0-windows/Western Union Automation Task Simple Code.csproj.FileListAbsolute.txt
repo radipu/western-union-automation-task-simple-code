@@ -1,0 +1,35 @@
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.csproj.AssemblyReference.cache
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\App.g.cs
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code_MarkupCompile.cache
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code_MarkupCompile.lref
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\Western Union Automation Task Simple Code.exe
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\Western Union Automation Task Simple Code.deps.json
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\Western Union Automation Task Simple Code.runtimeconfig.json
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\Western Union Automation Task Simple Code.dll
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\Western Union Automation Task Simple Code.pdb
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\CsvHelper.dll
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\Selenium.Support.dll
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\Selenium.WebDriver.dll
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\runtimes\linux\native\selenium-manager
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\runtimes\osx\native\selenium-manager
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\bin\Debug\net8.0-windows\runtimes\win\native\selenium-manager.exe
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.csproj.AssemblyReference.cache
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\App.g.cs
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code_MarkupCompile.cache
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code_MarkupCompile.lref
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\MainWindow.baml
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.g.resources
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.AssemblyInfoInputs.cache
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.AssemblyInfo.cs
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.csproj.CoreCompileInputs.cache
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.sourcelink.json
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western .222EA879.Up2Date
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.dll
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\refint\Western Union Automation Task Simple Code.dll
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.pdb
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\Western Union Automation Task Simple Code.genruntimeconfig.cache
+D:\My Files\Tasks\western-union-automation-task-simple-code\Western Union Automation Task Simple Code\obj\Debug\net8.0-windows\ref\Western Union Automation Task Simple Code.dll

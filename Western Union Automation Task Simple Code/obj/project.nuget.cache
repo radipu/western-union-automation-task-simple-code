@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/tv88Ne3ZWM=",
+  "success": true,
+  "projectFilePath": "D:\\My Files\\Tasks\\western-union-automation-task-simple-code\\Western Union Automation Task Simple Code\\Western Union Automation Task Simple Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\selenium.support\\4.44.0\\selenium.support.4.44.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\selenium.webdriver\\4.44.0\\selenium.webdriver.4.44.0.nupkg.sha512"
+  ],
+  "logs": []
+}

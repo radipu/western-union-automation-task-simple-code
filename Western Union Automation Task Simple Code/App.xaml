@@ -1,0 +1,9 @@
+﻿<Application x:Class="Western_Union_Automation_Task_Simple_Code.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Western_Union_Automation_Task_Simple_Code"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

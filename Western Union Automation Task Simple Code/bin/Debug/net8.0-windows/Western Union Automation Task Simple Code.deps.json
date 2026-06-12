@@ -1,0 +1,109 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Western Union Automation Task Simple Code/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "33.1.0",
+          "Newtonsoft.Json": "13.0.4",
+          "Selenium.Support": "4.44.0",
+          "Selenium.WebDriver": "4.44.0"
+        },
+        "runtime": {
+          "Western Union Automation Task Simple Code.dll": {}
+        }
+      },
+      "CsvHelper/33.1.0": {
+        "runtime": {
+          "lib/net8.0/CsvHelper.dll": {
+            "assemblyVersion": "33.0.0.0",
+            "fileVersion": "33.1.0.26"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.4": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.4.30916"
+          }
+        }
+      },
+      "Selenium.Support/4.44.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.44.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Selenium.Support.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.44.0": {
+        "runtime": {
+          "lib/net8.0/Selenium.WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/native/selenium-manager": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/selenium-manager": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/selenium-manager.exe": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Western Union Automation Task Simple Code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/33.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kqfTOZGrn7NarNeXgjh86JcpTHUoeQDMB8t9NVa/ZtlSYiV1rxfRnQ49WaJsob4AiGrbK0XDzpyKkBwai4F8eg==",
+      "path": "csvhelper/33.1.0",
+      "hashPath": "csvhelper.33.1.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A==",
+      "path": "newtonsoft.json/13.0.4",
+      "hashPath": "newtonsoft.json.13.0.4.nupkg.sha512"
+    },
+    "Selenium.Support/4.44.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Kk+IY+uFT2just/66TiIwRu7J3OE/7BMXOEYaIangB9jU2etr5L8GMggSF9jOprmclkH9Hg19RWyLjdnlIgrzw==",
+      "path": "selenium.support/4.44.0",
+      "hashPath": "selenium.support.4.44.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.44.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T6SO7JDdCCbyCU008v2+Zl9e3dUM4VgUXrtSgFjILm9Ceifoh3jvV0rkFhbALOPFMvxJhuje3zCqX43jk6Ueaw==",
+      "path": "selenium.webdriver/4.44.0",
+      "hashPath": "selenium.webdriver.4.44.0.nupkg.sha512"
+    }
+  }
+}

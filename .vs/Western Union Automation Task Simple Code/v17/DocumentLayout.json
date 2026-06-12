@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Files\\Tasks\\western-union-automation-task-simple-code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74C173AA-C075-4C21-AB0C-11E8F5BD6297}|Western Union Automation Task Simple Code\\Western Union Automation Task Simple Code.csproj|d:\\my files\\tasks\\western-union-automation-task-simple-code\\western union automation task simple code\\services\\excelreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C173AA-C075-4C21-AB0C-11E8F5BD6297}|Western Union Automation Task Simple Code\\Western Union Automation Task Simple Code.csproj|solutionrelative:western union automation task simple code\\services\\excelreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C173AA-C075-4C21-AB0C-11E8F5BD6297}|Western Union Automation Task Simple Code\\Western Union Automation Task Simple Code.csproj|d:\\my files\\tasks\\western-union-automation-task-simple-code\\western union automation task simple code\\automation\\parabankautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C173AA-C075-4C21-AB0C-11E8F5BD6297}|Western Union Automation Task Simple Code\\Western Union Automation Task Simple Code.csproj|solutionrelative:western union automation task simple code\\automation\\parabankautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C173AA-C075-4C21-AB0C-11E8F5BD6297}|Western Union Automation Task Simple Code\\Western Union Automation Task Simple Code.csproj|d:\\my files\\tasks\\western-union-automation-task-simple-code\\western union automation task simple code\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74C173AA-C075-4C21-AB0C-11E8F5BD6297}|Western Union Automation Task Simple Code\\Western Union Automation Task Simple Code.csproj|solutionrelative:western union automation task simple code\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelReportService.cs",
+              "DocumentMoniker": "D:\\My Files\\Tasks\\western-union-automation-task-simple-code\\Western Union Automation Task Simple Code\\Services\\ExcelReportService.cs",
+              "RelativeDocumentMoniker": "Western Union Automation Task Simple Code\\Services\\ExcelReportService.cs",
+              "ToolTip": "D:\\My Files\\Tasks\\western-union-automation-task-simple-code\\Western Union Automation Task Simple Code\\Services\\ExcelReportService.cs",
+              "RelativeToolTip": "Western Union Automation Task Simple Code\\Services\\ExcelReportService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:53:04.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParaBankAutomation.cs",
+              "DocumentMoniker": "D:\\My Files\\Tasks\\western-union-automation-task-simple-code\\Western Union Automation Task Simple Code\\Automation\\ParaBankAutomation.cs",
+              "RelativeDocumentMoniker": "Western Union Automation Task Simple Code\\Automation\\ParaBankAutomation.cs",
+              "ToolTip": "D:\\My Files\\Tasks\\western-union-automation-task-simple-code\\Western Union Automation Task Simple Code\\Automation\\ParaBankAutomation.cs",
+              "RelativeToolTip": "Western Union Automation Task Simple Code\\Automation\\ParaBankAutomation.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAOQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:46:04.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\My Files\\Tasks\\western-union-automation-task-simple-code\\Western Union Automation Task Simple Code\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Western Union Automation Task Simple Code\\MainWindow.xaml",
+              "ToolTip": "D:\\My Files\\Tasks\\western-union-automation-task-simple-code\\Western Union Automation Task Simple Code\\MainWindow.xaml",
+              "RelativeToolTip": "Western Union Automation Task Simple Code\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-29T13:18:17.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
